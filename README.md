@@ -1,5 +1,16 @@
 # git-GitHub-
 ## git+GitHub学习总结
+
+>**更新**  
+git+GitHub学习总文件夹中新加入了网络进阶版git学习
+
+**结构图**
+
+![网络进阶版结构图](git+GitHub学习总结/git+GitHub（结构图）.bmp "结构图")
+
+视频链接：[尚硅谷git教学](https://www.bilibili.com/video/av24441039?p=62)
+
+
 >这些是文件内.md文件的目录。 .pdf目录和.md文件相同
 <!-- TOC -->
 
